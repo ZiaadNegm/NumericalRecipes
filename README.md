@@ -30,7 +30,7 @@ Deze repository bevat Python-implementaties voor numerieke differentiatie met be
 
 ## Bestanden
 - `Afgeleide5-puntsdDfferentie.py`: Code voor het benaderen van de afgeleide van \(\sin(x)\) met de 5-punts differentieformule.
-- Andere scripts (zoals eenvoudige differentie en ruisanalyse) worden toegevoegd in overeenstemming met de opdrachten.
+- `EenvoudigeDifferentie.py`: Python-code voor het berekenen van de eerste afgeleide van \(\sin(x)\) met verschillende methodes.
 
 ## Vereisten
 - Python 3.7+
